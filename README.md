@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Gabriel Nazaré
+# 🥤 Gabriel Nazaré
 
 **`Engenheiro da Computação & Desenvolvedor Fullstack`**
 
