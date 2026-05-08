@@ -23,7 +23,7 @@ Engenheiro da Computação em formação com base em desenvolvimento Fullstack (
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <div style="display: inline_block">
     <img align="left" alt="Java" title="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style="padding-right: 10px;" />
